@@ -10,3 +10,6 @@ Compile: `g++ src/tree.cpp -o tree`
 
 ---
 *Released under the MIT License by jocck96.*
+
+---
+*Released under the MIT License by jocck96.*
